@@ -1,6 +1,6 @@
 var page = require('webpage').create();
 
-page.open("https://github.com/RashmiZoysa", function(status) {
+page.open("https://yifymovies.pro/", function(status) {
 
   if (status === "success") {
 
